@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod vincent 100-change_owner_and_group
+chgrp staff 100-change_owner_and_group
