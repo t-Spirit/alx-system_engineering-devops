@@ -5,3 +5,4 @@ Display current directory in a long format.
 Display hidden files
 I love numbers
 My first directory
+Moving a file
